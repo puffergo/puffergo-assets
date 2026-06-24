@@ -2,7 +2,7 @@
 
 **Last updated: June 24, 2026**
 
-[中文版本 / Chinese Version](https://puffergo.com/chrome-extension-privacy-zh/)
+[中文版本 / Chinese Version](./chrome-extension-privacy-zh.html)
 
 ## Who We Are
 

@@ -2,7 +2,7 @@
 
 **最后更新：2026 年 6 月 24 日**
 
-[English Version / 英文版本](https://puffergo.com/chrome-extension-privacy/)
+[English Version / 英文版本](./chrome-extension-privacy.html)
 
 ## 关于我们
 
