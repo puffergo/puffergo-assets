@@ -1,4 +1,4 @@
-# PufferGo Chrome Extension — Support
+# PufferGo Extension — Support
 
 **Last updated: June 24, 2026**
 
